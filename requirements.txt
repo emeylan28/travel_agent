@@ -1,0 +1,4 @@
+Requirements for travel_agent
+
+Two APIs are required, openweathermap and ExchangeRate-API. They both require keys, but are free under a certain number of requests.
+Two files are needed to run the console app, the travel_agent.py and currency_codes.py.
